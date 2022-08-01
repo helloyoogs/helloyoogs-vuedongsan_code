@@ -1,2 +1,24 @@
-# helloyoogs-vuedongsan_code
-(독학)vue이용해 제작한 직방 사이트 소스 코드
+# vuedongsan
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
